@@ -1,0 +1,61 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.kotak {
+  height: 10%;
+  width: 100%;
+  border-radius: 10%;
+  background-color: #686de0;
+}
+
+.wortel {
+  background-color: #e67e22;
+}
+
+.circle {
+  padding: 10px;
+  width: 35px;
+  background-color: #f9ca24;
+  border-radius: 50%;
+}
+
+.gambargw {
+  height: 160px;
+}
+
+.radiasiultrasonik {
+  border-radius: 20%;
+  filter: brightness(30%);
+}
+
+.ilang {
+  border: none;
+}
+
+.bulet {
+  border-radius: 5%;
+}
+
+.spasi {
+  letter-spacing: 7px;
+}
+
+.back {
+  background-color: #f8f9fa;
+}
+
+.side {
+  margin-top: 20px;
+  height: 60px;
+  border-radius: 10%;
+}
+
+.radiasi {
+  filter: brightness(80%);
+}
+
+.lebar {
+  width: 120px;
+}
